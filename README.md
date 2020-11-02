@@ -1,9 +1,9 @@
-# :rocket:Zipu-Logistics-App
+# :rocket:Logistics-App
 A Flutter project .
 
 ## Getting Started
 
-This project is currently in a starting point for ZIPU application.
+This project is currently in middle of the sea.
 
 
 **Packages we are using:**
