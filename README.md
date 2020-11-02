@@ -10,7 +10,7 @@ This project is currently in middle of the sea.
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-Complete responsive e-commerce app UI by using flutter.
+Complete responsive e-commerce app having pickup and drop, order groceries food delivery and order medicine screens and UI by using flutter.
 
 
 ### Previews of Final UI
