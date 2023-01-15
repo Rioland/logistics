@@ -100,8 +100,8 @@ class item extends State<Item_Screen> {
             tooltip: 'Search',
             icon: const Icon(Icons.search),
             onPressed: () async {
-              final int selected = await showSearch<int>(
-                context: context,
+              final int? selected = await showSearch<int>(
+                context: context, delegate: null,
                 // delegate: _delegate,
               );
             },
